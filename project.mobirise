@@ -1,0 +1,1039 @@
+{
+  "settings": {
+    "name": "JG Contabilidade",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/fvcom-jg-128x73.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 24,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "JG Contabilidade",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cartao-de-visita-jg-contabilidade-640x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">Serviços</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"empresa.html\">Empresa</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">Contato</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/accounting-2000x863.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">Contabilizando o seu sucesso</span>",
+                "showText": false,
+                "text": "Contabilizando o seu sucesso",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/accounting-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">Nós vestimos a camisa da sua empresa</span>",
+                "showText": false,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/accounting1-2000x1332.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">Eficiência e resultados positivos para sua empresa</span>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-1",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Soluções para sua empresa.",
+          "meta": "JG Assessoria Contábil e Empresarial"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Nossa missão é cuidar das suas obrigações com qualidade tornando a sua vida mais fácil. Nossos valores são Integridade, Excelência, Conhecimento e Responsabilidade.</blockquote>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-8",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "Departamento Pessoal&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Na área trabalhista, há dezenas de trâmites que devem ser observados com&nbsp;regularidade, visando adequação à legislação laboral. Desta forma, previnem-se&nbsp;multas pela fiscalização e reclamatórias dos empregados.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "Escrituração Contábil&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Para que uma entidade/empresa possa conhecer e administrar seus resultados,&nbsp;custos, indicadores financeiros e econômicos é fundamental a manutenção da&nbsp;escrituração contábil regular.&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Escrituração Fiscal",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Apuração dos tributos com eficiência e transparência. Prestação das guias dos tributos&nbsp;com antecedência garantindo um fluxo financeiro eficaz para os clientes.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Siga-nos&nbsp;",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-b",
+          "_params": {
+            "googleMap": {
+              "address": "Alameda Profa. Angélica de Almeida Moura - Neópolis, Natal - RN, 59084-010",
+              "placeId": "EklBbGFtZWRhIFByb2ZhLiBBbmfDqWxpY2EgZGUgQWxtZWlkYSBNb3VyYSAtIE5lw7Nwb2xpcywgTmF0YWwgLSBSTiwgQnJhc2ls",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cartao-de-visita-jg-contabilidade-quadrada-128x107.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Endereço</strong><br>Alameda Profa. Angélica de Almeida Moura - Neópolis, Natal - RN, 59084-010<br>",
+          "text2": "<strong>Contatos</strong><br>contato@jgcontabilidadern.com.br<br>\nFone: 84-2020.1235<br>\nCelular: 84-98752.4878&nbsp;",
+          "text3": "<p><strong>Links</strong><br><a href=\"servicos.html\">Serviços</a><br>\n<a href=\"empresa.html\">Empresa</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"contato.html\">Contato</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        }
+      ]
+    },
+    "servicos.html": {
+      "settings": {
+        "title": "Serviços",
+        "meta_descr": "Serviços JG"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-f",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Serviços",
+          "text": "Serviços oferecidos pela &nbsp;JG Assessoria Contábil e Empresarial..",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "B": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content2-g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b style=\"font-style: normal;\">ÁREA TRABALHISTA</b></blockquote><blockquote><br></blockquote><blockquote><p>• Elaboração de folha e recibo de pagamentos;</p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão de RPA;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão de guias de recolhimento da INSS (GPS);</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão e envio de GFIP (guias de recolhimento de FGTS e relatórios);</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão de guias de recolhimento de Contribuição Sindical;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão de guias de recolhimento de Imposto de Renda na Fonte sobre Folha de&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">pagamento;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Admissão e demissão de funcionários;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração e envio do CAGED;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Preparação de aviso de férias de funcionários;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração e entrega da RAIS;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração e entrega da DIRF;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão mensal dos recibos de pró-labore e das respectivas guias de&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">recolhimento de tributos incidentes (INSS e IRRF);</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão anual de informe de rendimentos para fins de declaração de Imposto de&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Renda Pessoa Física.</span></p></blockquote><blockquote><br></blockquote><blockquote><b style=\"font-style: normal;\">ÁREA CONTÁBIL</b></blockquote><blockquote><br></blockquote><blockquote><p>• Elaboração de Balancetes de verificação trimestrais, quadrimestrais e<span style=\"font-size: 1.09rem; line-height: 1.5;\">semestrais;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração de Balanço Anual e demais demonstrações contábeis;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração e entrega da Escrituração Contábil Fiscal – ECF;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração e entrega da Escrituração Contábil Digital – ECD;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão do Livro e Razão das empresas do Simples Nacional;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão de DARF ́s para recolhimento do IRPJ e CSLL das empresas do Lucro&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Real e Incorporadoras;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão de DARF ́s para recolhimento de Imposto de Renda da Fonte sobre&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Aluguéis;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão de Informe de rendimentos anual de aluguéis, serviços prestados e&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">lucros distribuídos para Declaração de Imposto de Renda Pessoa Física;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Análise e conciliações de contas patrimoniais.</span></p></blockquote><blockquote><br></blockquote><blockquote><b style=\"font-style: normal;\">ÁREA FISCAL</b></blockquote><blockquote><br></blockquote><blockquote><p>• Lançamentos de Notas Fiscais Notas Fiscais de Entrada, Saída, e de serviços&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">prestados;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão de guias de recolhimento dos tributos mensais: IPI, ICMS, PIS,&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">COFINS, ISS, SIMPLES NACIONAL;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração e envio das obrigações acessórias: DCTF, PGDAS-D, SPED FISCAL&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">E CONTRIBUIÇÕES, GIM, GI, etc;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração e entrega da Escrituração Contábil Digital – ECD;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Retenções Federais e Municipais.</span></p></blockquote><blockquote><br></blockquote><blockquote><b style=\"font-style: normal;\">OUTROS SERVIÇOS</b></blockquote><blockquote><br></blockquote><blockquote><p>• Abertura e Encerramento de Firmas;</p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Alteração de Contrato Social;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração de Contratos;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Atualização de Escrita Fiscal/ Contábil;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Abertura de CEI;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Baixa de CEI (entrega da DISO);</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração e entrega de Declaração de Imposto de Renda Pessoa Física;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Assessoria na área de Segurança do Trabalho (PCMSO, PPRA, CIPA, etc.;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Obtenção de Certidões Negativas de Tributos Federais, Estaduais, Municipais e&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Cartórios;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Atendimento à fiscalização, quando necessário;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Cadastro de empregador e empregado doméstico no e-Social;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Emissão do DAE – simples doméstico (Documento de arrecadação do e-Social);</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">• Elaboração de Processo de Parcelamento de Tributos e Contribuições.</span></p></blockquote>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-d",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cartao-de-visita-jg-contabilidade-640x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://INDEX.COM",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">Serviços</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"empresa.html\">Empresa</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">Contato</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cartao-de-visita-jg-contabilidade-quadrada-128x107.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Endereço</strong><br>Alameda Profa. Angélica de Almeida Moura - Neópolis, Natal - RN, 59084-010<br>",
+          "text2": "<strong>Contatos</strong><br>contato@jgcontabilidadern.com.br<br>\nFone: 84-2020.1235<br>\nCelular: 84-98752.4878&nbsp;",
+          "text3": "<p><strong>Links</strong><br><a href=\"servicos.html\">Serviços</a><br>\n<a href=\"empresa.html\">Empresa</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"contato.html\">Contato</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        }
+      ]
+    },
+    "empresa.html": {
+      "settings": {
+        "title": "Sobre a Empresa",
+        "meta_descr": "Contabilidade, "
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-h",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cartao-de-visita-jg-contabilidade-640x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://INDEX.COM",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">Serviços</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"empresa.html\">Empresa</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">Contato</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1014.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "A empresa",
+          "text": "Conheça um pouco mais sobre a JG Assessoria Contábil e Empresarial..",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>JG ASSESSORIA CONTABIL &amp; EMPRESARIAL, Atua no mercado Contábil desde&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">2015. Representada pelo seu sócio JOÃO GABRIEL GOMES DE LIMA, Bacharel em&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Ciências Contábeis pela FACULDADE NATALENSE DE ENSINO E CULTURA,&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">CRC/RN ATIVO.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Temos uma filosofia de trabalho voltada para a qualidade, com cumprimento de prazo,&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">sigilo, eficácia e profissionalismo na realização dos serviços oferecidos aos nossos&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">clientes.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Nossa empresa é especializada em serviços nas áreas de cálculos tributários, pessoal</span><span style=\"font-size: 1.09rem; line-height: 25px;\">&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">e RH, contábil, assessoria tributária; Atua também nos serviços de constituição e&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">legalização de empresas, alterações contratuais e encerramento de empresas.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Todos os serviços elaborados pela JG ASSESSORIA CONTABIL &amp; EMPRESARIAL&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">são informatizados, o que os torna mais ágeis e seguros com a opção de transferência&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">eletrônica de relatórios direto para o cliente, inclusive folhas de pagamento, guias de&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">impostos e declarações contábeis.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Estamos perfeitamente integrados à todas as exigências fiscais relacionadas ao&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">sistema público de escrituração digital (SPED).</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><b>Soluções para sua empresa</b></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><b><br></b></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Nossa missão é cuidar das suas obrigações com qualidade tornando a sua vida mais&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">fácil. Nossos valores são Integridade, Excelência, Conhecimento, Responsabilidade.</span></p></blockquote>",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cartao-de-visita-jg-contabilidade-quadrada-128x107.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Endereço</strong><br>Alameda Profa. Angélica de Almeida Moura - Neópolis, Natal - RN, 59084-010<br>",
+          "text2": "<strong>Contatos</strong><br>contato@jgcontabilidadern.com.br<br>\nFone: 84-2020.1235<br>\nCelular: 84-98752.4878&nbsp;",
+          "text3": "<p><strong>Links</strong><br><a href=\"servicos.html\">Serviços</a><br>\n<a href=\"empresa.html\">Empresa</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"contato.html\">Contato</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        }
+      ]
+    },
+    "contato.html": {
+      "settings": {
+        "title": "Fale conosco",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-l",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cartao-de-visita-jg-contabilidade-640x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">Serviços</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"empresa.html\">Empresa</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">Contato</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-n",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Fale conosco",
+          "subtitle": "Para mais informações preencha o formulário e fale com a gente.",
+          "form": {
+            "action": "contato@jgcontabilidadern.com.br",
+            "alerts": {
+              "success": "Obrigado por nos enviar uma mensagem. Entraremos em contato em breve."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Fone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cartao-de-visita-jg-contabilidade-quadrada-128x107.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Endereço</strong><br>Alameda Profa. Angélica de Almeida Moura - Neópolis, Natal - RN, 59084-010<br>",
+          "text2": "<strong>Contatos</strong><br>contato@jgcontabilidadern.com.br<br>\nFone: 84-2020.1235<br>\nCelular: 84-98752.4878&nbsp;",
+          "text3": "<p><strong>Links</strong><br><a href=\"servicos.html\">Serviços</a><br>\n<a href=\"empresa.html\">Empresa</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"contato.html\">Contato</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        }
+      ]
+    }
+  }
+}
